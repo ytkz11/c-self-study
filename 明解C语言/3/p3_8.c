@@ -10,11 +10,10 @@ int main(){
 	scanf("%d",&b);
 	printf("整数3:");
 	scanf("%d",&c);
-	min = a;
-	if (min>b)
-		min = b;
-	if(min>c)
-		min = c;
+
+	min = (a<b)?a:b;
+	min = (min<c)?min:c;
+
 	printf("最小值是%d",min);
 
 	return 0;

@@ -14,7 +14,7 @@ int main(void){
 	printf("点2 的X坐标：");	scanf("%lf",&x2);
 	printf("      Y坐标：");	scanf("%lf",&y2);
 	
-	printf("2点之间的距离为%f。\n", dist(x1,y1,x2,y2));
+	printf("2点之间的距离为%f。\n", dist(x1,y1,x2,y2));     
 
 	return 0;}
 

@@ -1,1 +1,1 @@
-https://www.runoob.com/cprogramming/c-exercise-example1.html
+https://www.runoob.com/cprogramming/c-100-examples.html
